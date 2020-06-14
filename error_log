@@ -1,0 +1,305 @@
+[11-Apr-2020 04:46:33 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:46:48 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:46:58 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:47:14 America/New_York] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:47:14 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:47:14 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:47:39 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:48:03 America/New_York] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:48:03 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:48:03 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:49:33 America/New_York] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:49:33 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 04:49:33 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 05:03:27 America/New_York] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 05:03:27 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 05:03:27 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 05:05:51 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 05:05:55 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 22:17:35 America/New_York] PHP Warning:  file_get_contents(): SSL: Connection reset by peer in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 22:17:35 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[11-Apr-2020 22:17:35 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[13-Apr-2020 05:03:48 America/New_York] PHP Warning:  file_get_contents(): SSL: Handshake timed out in /home/zitacszl/covid19bd/index.php on line 2
+[13-Apr-2020 05:03:48 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[13-Apr-2020 05:03:48 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[13-Apr-2020 05:05:05 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[13-Apr-2020 05:15:49 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[14-Apr-2020 05:03:03 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[15-Apr-2020 19:32:10 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection refused in /home/zitacszl/covid19bd/index.php on line 2
+[18-Apr-2020 05:51:24 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection refused in /home/zitacszl/covid19bd/index.php on line 2
+[18-Apr-2020 05:51:30 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection refused in /home/zitacszl/covid19bd/index.php on line 2
+[18-Apr-2020 05:52:21 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection refused in /home/zitacszl/covid19bd/index.php on line 2
+[18-Apr-2020 05:52:33 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection refused in /home/zitacszl/covid19bd/index.php on line 2
+[18-Apr-2020 05:54:13 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection refused in /home/zitacszl/covid19bd/index.php on line 2
+[18-Apr-2020 05:54:45 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection refused in /home/zitacszl/covid19bd/index.php on line 2
+[18-Apr-2020 05:55:47 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection refused in /home/zitacszl/covid19bd/index.php on line 2
+[20-Apr-2020 05:00:29 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[20-Apr-2020 05:01:21 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[21-Apr-2020 04:51:50 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[25-Apr-2020 17:54:49 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[20-May-2020 07:58:13 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:22:45 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:22:45 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:22:45 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:37:30 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:37:30 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:37:30 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:46:31 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:46:31 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:46:31 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:54:24 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:54:24 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 07:54:24 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 08:19:17 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 08:19:17 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 08:19:17 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 08:35:53 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 08:35:53 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 08:35:53 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 08:43:32 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 08:43:32 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 08:43:32 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 09:16:34 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 09:16:34 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 09:16:34 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 09:16:35 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 09:16:35 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 09:16:35 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 10:47:27 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 10:47:27 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 10:47:27 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 11:44:47 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 11:44:47 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 11:44:47 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 11:44:47 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 11:44:47 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 11:44:47 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 11:50:19 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 11:50:19 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 11:50:19 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 12:41:34 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 12:41:34 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 12:41:34 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:24:39 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:24:39 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:24:39 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:39:25 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:39:25 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:39:25 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:43:59 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:43:59 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:43:59 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:57:11 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:57:11 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 13:57:11 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 14:33:28 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 14:33:28 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 14:33:28 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 15:36:16 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 15:36:16 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 15:36:16 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 18:41:33 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 18:41:33 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 18:41:33 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 19:51:57 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 19:51:57 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 19:51:57 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 20:05:06 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 20:05:06 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 20:05:06 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 21:55:41 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 21:55:41 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 21:55:41 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:00:27 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:00:27 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:00:27 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:17:47 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:17:47 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:17:47 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:17:49 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:17:49 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:17:49 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:17:49 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:17:49 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[30-May-2020 22:17:49 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 00:28:19 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 00:28:19 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 00:28:19 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 00:57:36 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 00:57:36 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 00:57:36 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 01:06:13 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 01:06:13 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 01:06:13 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 01:13:14 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 01:13:14 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 01:13:14 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 03:23:37 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 03:23:37 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 03:23:37 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:04:05 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:04:05 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:04:05 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:10:26 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:10:26 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:10:26 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:33:43 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:33:43 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:33:43 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:34:07 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:34:07 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 04:34:07 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:08:35 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:08:35 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:08:35 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:22:07 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:22:07 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:22:07 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:36:22 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:36:22 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:36:22 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:43:33 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:43:33 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:43:33 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:47:31 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:47:31 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:47:31 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:48:02 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:48:02 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 05:48:02 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 06:04:49 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 06:04:49 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 06:04:49 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 06:52:18 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 06:52:18 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 06:52:18 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 07:33:15 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 07:33:15 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 07:33:15 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 07:44:16 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 07:44:16 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 07:44:16 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 07:51:07 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 07:51:07 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 07:51:07 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:02:36 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:02:36 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:02:36 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:40:04 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:40:04 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:40:04 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:42:22 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:42:22 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:42:22 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:56:11 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:56:11 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 08:56:11 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 09:48:21 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 09:48:21 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 09:48:21 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 09:48:22 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 09:48:22 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 09:48:22 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 09:53:58 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 09:53:58 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 09:53:58 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:01:44 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:01:44 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:01:44 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:21:57 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:21:57 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:21:57 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:21:57 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:21:57 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:21:57 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:21:57 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:21:57 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:21:57 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:38:39 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:38:39 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:38:39 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:39:38 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:39:38 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 10:39:38 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 11:17:49 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 11:17:49 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 11:17:49 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 12:56:48 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 12:56:48 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 12:56:48 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 12:56:48 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 12:56:48 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 12:56:48 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 13:49:01 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 13:49:01 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 13:49:01 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 13:58:52 America/New_York] PHP Warning:  file_get_contents(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 13:58:52 America/New_York] PHP Warning:  file_get_contents(): Failed to enable crypto in /home/zitacszl/covid19bd/index.php on line 2
+[31-May-2020 13:58:52 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: operation failed in /home/zitacszl/covid19bd/index.php on line 2
+[03-Jun-2020 10:39:09 America/New_York] PHP Warning:  file_get_contents(https://www.iedcr.gov.bd/): failed to open stream: Connection timed out in /home/zitacszl/covid19bd/index.php on line 2
